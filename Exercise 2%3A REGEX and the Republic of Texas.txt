@@ -1,0 +1,9 @@
+Exercise 2: REGEX and the Republic of Texas
+
+The end of step one caught me out. RegExr doesn't quite work like Notepad++ but I eventually got it to mimic what I was doing in Notepad++. I see how it could be useful as it shows what is happening in real-time, but also, as the code works a bit differently, I found it to be a bit of a time waster at this point. 
+
+Again, at the end of step 2 it is suggested to test with RegExr first, which I again found to be different to use than Notepad++, so I didn;t bother with this step as it worked first try in Notepad++ for me anyway.
+
+Step 4 gave me a real hard tiem. Lots of trial and error and still couldn't figure it out. It turns out the solution was real simple, but I had to watch the tutorial video on Slack to finally get it. 
+
+Completed file located: C:\Users\User\Desktop\CARLETON\2015-2016\Winter 2016\HIST3907O\Exercises\Module 3\Exercise 2

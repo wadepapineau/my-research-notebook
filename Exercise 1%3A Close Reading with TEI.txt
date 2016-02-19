@@ -1,0 +1,19 @@
+Exercise 1: Close Reading with TEI
+
+Hit a snag right away: how to download a repository as a .zip file. Had to Google how to do this. 
+
+Vetting a Website 
+
+To answer the questions concerning whether this website is a trustworthy source of historical texts or not I have to say that I cannot think of a good reason why it wouldn't be. While I am always skeptical of any historical content I find on the web that is not affiliated with a university or some other type of legitimate institution, the welcome page here does cite Anti-Slavery International at the bottom. While I am not familiar with Anti-Slavery International, I have no reason at this point to doubt its legitimacy or deem it untrustworthy. 
+
+Left off: Encoding Your Transcription
+
+--TABS-- http://workbook.craftingdigitalhistory.ca/supporting%20materials/tei/
+
+--WINDOW--
+http://www.recoveredhistories.org/pamphlet1.php?catid=66
+
+-- FOLDER--
+C:\Users\User\Desktop\CARLETON\2015-2016\Winter 2016\HIST3907O\Exercises\Module 3\Exercise 1\module3-wranglingdata-master\tei-hist3907
+
+--I began to transcribe a page from this website as directed to do in the exercise but decided not to go any further with it as it seems to me that this is useful for someone who's project requires a lot of trnascription. As I will probably be working with the dataset in the sylabus called the "Colonial Newspapers Database," I thought it would be best not to waste any more time with this particualr exercise. At this point, I figure that if I decide this is something that would be usefuk for my final project, I will come back to it. --

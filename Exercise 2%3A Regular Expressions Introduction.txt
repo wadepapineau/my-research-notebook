@@ -1,0 +1,23 @@
+Exercise 2: Regular Expressions Introduction
+
+This exercise seems like it might be useful for working with the Colonial Newspaper Database that I have decided to work with for my final project. 
+
+Doing a simple search using Notepad++ as per the instructions in the introduction, I did a search for word Quebec. I see how this could be useful for identifying words and patterns within the dataset which would be helpful for identifying what parts of Canada are being reported about in this newspaper and what is being said about these places. 
+
+This might be useful for a final project in the sense that it raises questions such as:
+
+What is happening in the time and place in question that is producing these reults?
+
+What does this say about what people in the UK are interested in reading about from the colonies at certain times?
+
+It would indicate what events unfolding in the Canada are making news in the UK.
+
+For example, some instances where Quebec is found are talking about flour shortages where others are talking about battles between American forces and First Nations People.
+
+What is odd is that I often get multiple instances of the same line. For example, when I search "Quebec|Americans|Indians" I get the same lines repeated; sometimes 4 or 5 times over while others only appear once. 
+
+The basics of using this regex function brings to mind the digital project in the reading: Blevins, '''Mining and Mapping the production of Space: A view of the World From Houston''' which I may use as inspiration for my final project, something similar abut Canada or Qubec or something along these lines might be a possibility.
+
+Perhaps playing with date ranges here would be useful as well. For example, in the 1790's there is much news in Quebec about battles between American and Firat Nations forces, while in the 1800's there is much news about the North West Company. I think this provides some interesting research and analysis opportunities.
+
+This brings to mind an A+ research project I did last year for Canadian Social History concerning compulsory smallpox vaccination in Montreal in the mid-19th century. If I had the time, which I don't think I do, I would like to mine my own dataset from the medical journals I used in my research in the Early Canadiana website that is available through the library. I could then look at mortality rates and percentages of vaccinated citizens and perhaps create charts and maps from the results. As this is a project I have been considering re-visiting this would be an interesting way on expanding upon the research I have already done.

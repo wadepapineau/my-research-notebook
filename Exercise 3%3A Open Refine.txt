@@ -1,0 +1,27 @@
+Exercise 3: Open Refine
+
+Having problems with this right off the bat. For some reason, Open Refine will not open my .csv file. After checking Slack and clicking around frantically I decided to close and re-open Open Refine. Now it seems to be working. I can see the table now. 
+
+I also had some difficulty saving the correspondence file as a .csv file using Notepad ++. I was trying to find the extension in the drop-down menu at the bottom of the "save as" option, not knowing that I could just write it in myself (.csv is not an option in the drop-down menu). 
+
+This far, I can see how powerful Open Refine is for cleaning up messy data. I did notice one small problem,, but this may due simply to the fact that I do not know how to fix this. The problem is this: under Recipients, when I have Method set to "nearest neighbor," Distance Function = "PPM," Radius = "3.0," I have on row where Wm. Bryan and William Bryan should obviously be clustered. The problem is that i this row I also have William Kennedy and William D. Lee which I obviously do not want to cluster. I can't figure out how to cluster just the "Bryans" together excluding the other 2 options (Lee and Kennedy). If I bring the Radius back down to 2, for example, these names no longer show up. 
+
+Figured this out. It seems that when I change Radius to 2.5 I get the option I was looking for to fix the Bryan problem and it brought up others. Changing the value of "Block Chars" also brings up different results.
+
+So, what is it that I am manipulating when I am changing the numeric values under "Radius" and "Block Chars"? "Radius" could mean anything to me, "Block Chars" sounds like "Block Characters." 
+
+According to the info provided, "Radius" represent a distance threshold where any set of strings that is closer than the numeric value here will be ninned together. Also, "Block Chars" represents the number of strings that will be matched against one another. All this is not entirely clear to me but it helps a bit I suppose. 
+
+Anyway, I was able to get "Sender" down to 156 choices, and "Recipient" down to 160 choicws, both within what I consider to be reasonable considering the exercies instructions sy that they should be in the area of 150 and 160 respectively.
+
+Also, to export as a .csv file it took me a few tries to figure out that this meant "comma seperated value." This should have been obvious but when all else fails, trial and error usually works as it did in this case.
+
+Using Palladio I get an interesting graphic under "Graph." I'm not sure that I see any particualrly interesting pattern, other than, when clicking on "size nodes" I can see that Anson Jones and Ashbel Smith have the largest. I'm assuming this means that they are mentioned most in the dataset that I inputed (when "source" is set to source and "target" is set to recipient). 
+
+Something interesting happens when I change "source" to generated, I'm not sure what I am looking at though. It looks like it is grouping line numbers to their recipients. With "size nodes" checked I see again that Ashbel Smith and Anson Jones are the largest nodes, confirming what I thought this meant above about how they appear most in the dataset. Interesting. 
+
+I wonder if "timeline" and "timespan" options would work if I entered the dataset with the dates that were dited out when I saved as a .csv file from Open Refine.
+
+So I did this and what is interesting is: by making dates the "source" and generated the "target;" using the graph setting allows me to see on which dates there were the most correspondents. So what I have is different ways of visually analyzing the dataset. Very cool.
+
+I like this. I will have to look into how to use the other features. 

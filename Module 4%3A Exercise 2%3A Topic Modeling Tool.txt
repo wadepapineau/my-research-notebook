@@ -1,0 +1,11 @@
+Module 4: Exercise 2: Topic Modeling Tool
+
+This is interesting and suprisingly easy to use. I can see how this is very useful in narrowing down the text according to particular topics within it.
+
+I wanted to look at reports on North America within this dataset for example, and this topic modeling allows me to do thid rather efficiently.
+
+For example, under list of topics, the first one seeems to deal with more local news, where topic #2, which contains such key words as "America," and "settlement" deal with the type of subject matter that I am interested in looking at.  Looking at topic number 7 brings up reports of what loks to be the war of 1812. 
+
+One thing I am noticing is that the text in the articles seems to be incomplete, where only about 5 lines of text are displayed followed by 3 periods. This would be far more useful if it displayed the entire article, which I am sure is possible and something I will have to look into. 
+
+One way to find the entire article is to use the id number at the neginning of the line and look it up in Notepad++. This would also be useful perhaps in some way in the sense that form there I could use Regex to pull the entire article from the dataset according to the topics that have been identified using the topic modeling tool. This would also be useful to further narrow a search for more specific terms or phrases. This would also be useful for organizing the data, say, for example, by date, etc. So, it seems as though using the Topic Modeling Tool in cunjunction with Notepad++ and its Regex functionality would be a powerful combination ins orting the information within the Colonial Newspaper dataset.

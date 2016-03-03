@@ -1,0 +1,5 @@
+Module 4: Exercise 4: Text Analysis with Overview
+
+This is much more in-depth ir detailed compared to using the Topic Modeling Tool. I had considered searching for topics in this dataset relating to Canada, or Quebec, or the Hudson's Bay Co. and the Northwest Co., or all of these nd this does exactly that and seems quite easy to use. 
+
+So, by searching the word "Canada" I can create a seperate dataset from this by exporting it as a .csv file. Then I upload this file and use the Wor Cloud option to see the frequency of words being used within the document containing the word "Canada." This gives a sense of what is being talked about when Cnada is mentioned in the document. I see how this process can also be repeated according to how specific you want to be in order to take a close look at what is being represented in such a dataset.

@@ -1,0 +1,44 @@
+Module 4: Mapping Texts
+
+Some links provided for interface widgets (may or may not be useful):
+
+MITs "Smile" collection of open source widgets:
+
+http://www.simile-widgets.org/timeline/ 
+
+Protovis, for plotting ratios of recognised to unrecognised words over time:
+
+http://vis.stanford.edu/protovis
+
+Also try:
+
+Google Maps for plotting spatial data, and Google Finance for querying different time ranges. 
+
+
+NERs:
+
+http://www-nlp.stanford.edu/software/CRF-NER.shtml
+
+http://cogcomp.cs.illinois.edu/page/publication_view/199
+
+Topic modeling:
+
+http://mallet.cs.umass.edu/
+
+Their project lives here (for reference):
+
+http://mappingtexts.org/quality
+
+http://language.mappingtexts.org/
+
+This way of finding patterns in large newspaper datasets would have been very useful to me in a number of projects I have done in past courses. In Canadian Social History, for a project I did that involved working with historical Montreal newspapers and medical journals concerning smallpox mortality rates and compulsory vaccination, as well as a newspaper research project I did for War and Society, in which I was focused on the British public's concern for the problem of mismanagement during the Crimean war which involved identifying articles published in the Times where this issue was being discussed and argued. Identifying frequency within date ranges and mapping their sources would have been very interesting and useful for both of these projects as they involve sifting through historical newspapers and gathering data, which I had done manually. Using these tools woulfd have been very helpful and wuld have allowed me to consider a much larger dataset than I was able at the time. 
+
+I feel like this "Mapping Texts" project is the perfect example of what how I was thinking of approaching the final project back when I started on module 3. I had decided that I would like to use the "Colonial Newspapers Database" and have a look at such things as the frewuency of articles published and during what periods of time; what is being said in them by looking at the frequency of terms being used - for example - searching for term like "Quebec" (I live in Hull), "Indians, Hudosn's Bay Co., North West Company," etc. Looking at the frequency at certain times that articles about North AMerica are being published and asking why that is, comparing the results from this kind of analysis and using more traditional historical research methods to understand why the result are as they are. 
+
+Obviously I would not be able to do this to such a refined degree as this, but to learn to do this at least on a more basic scale would greatly benefit me in future studies in history, and I hope to learn how to do this on some basic level so that I will be able to revisit some of the projects I have done in the past and apply what I am learning here to them in order to add depth to the research and analysis that I have already done.
+
+I feel like the key to coming up with a good idea for the final project lies within first understanding what it is that I can and cannot do with the dataset that I have chosen to work with. This is why I have been reluctant to say for certain how it is exactly that I want to approach the final project. Until I have an understanding of how to use the various tools being introduced in the readings and exercises, and what it is that can be done with the dataset I chose to work with, I can't be sure of what can and cannot be done.
+
+Now that I am getting a better understanding of what can be done with this dataset, I am slowly getting a clearer idea of what I want to do with it and how this would be useful to me elsewhere. As is mentioned in this reading, once you know how you can analyze your dataset, then you can begin to understand what types of questions you can ask of it and what you cannot. Then, I think, conclusions can be drawn by comparing the different results from your analysis to broader hitorical themes in order to explore the reasons for the reults and patterns that you find. 
+
+This is how I intend to prceed with the final project and, as I said, I am looking forward to applying what I am learning here to others projects, past and future. 

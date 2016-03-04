@@ -1,0 +1,5 @@
+Module 4: Exercise 7: RAW
+
+The Alluvial Diagram displays some interesting results when all 4 places are inserted. The problem is that, for me at least, what it is telling me is not entirely clear.
+
+Obviuosly, some of these diagrams are not appropriate for thid dataset. The one that I personaly find to be particularly telling are the Circular Dendogram, Cluster Dendogram, Reingold-Tilford Tree, and the Treemap. I think these produce very clear and legible results in terms of being able to very quickly identify an informative pattern. 

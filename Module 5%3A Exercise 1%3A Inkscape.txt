@@ -1,0 +1,11 @@
+Module 5: Exercise 1: Inkscape
+
+This is an interesting little program.
+
+Having trouble with step number 10: Add a legend. I cant seem to figure out how to add text to this graphic. It i going to take some trial and error I guess. 
+
+I have figured out how to select a font easily enough. How to apply it to the image though still evades me. 
+
+After clicking around for a few minutes it, as is usual for me when I have issues, was so obvious it evaded me. By clicking on the "add text objects" button on the control panel on the right I am able to add a text box. It is always the most obvious things that confuse me with these exercises. 
+
+I'm not sure of the "going firther" section of this exercise is mandatory, but for the sake of saving time I am going to leave it for now. I do appreciate what it says about making a color palette that is "color blind friendly" for the sake of accessibility. 

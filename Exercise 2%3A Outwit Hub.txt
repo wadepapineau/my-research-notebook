@@ -1,3 +1,7 @@
 Exercise 2: Outwit Hub
 
 This is as far as I made it in module 2. Moving on as per Professor Graham's advice.
+
+I have decided to revisit some of the exercises here in Module 2. Currently I am on Exercise 2 of module 5 but, considering I still do not have a solid idea for the final project (it is March 15th) I thought it might be useful to me to be able to build my own dataset which gives me more freedom of choice for a topic for the final project (already have one in mind) and leaves room for more originality for the final project as opposed to be tied to one of the provided datasets.
+
+Runing this exercise in Outwit Hub gives the source URL and the corresponding information from the source. This information is useful in the sense that you can verify the information be going directly to the source URL. Also, the results are numbered which would help with any kind of analysis of the data. Also included are the date and time that the data was collected. 

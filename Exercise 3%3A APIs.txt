@@ -1,0 +1,9 @@
+Exercise 3: APIs
+
+Using Git Bash worked fine. I hit a snag at first but was able to fix it by editing the .sh file and changing jq to ./jq. After doing this everything worked fine. I have a "clean" and "dirty" file containing occhin #s. 
+
+That is, I thought it all went well until I reached the next part of the exercise concerning splitting the output.txt file. This is where i realized that I didn't have this file. After looking at the canadiana-2.sh file in notepadd ++ i could see that the last line of the prgram is where this file is created. The problem was that I had downloaded wget64.exe, and, by changing "wget" to "wget64" I was able to fix this problem.
+
+While doing this I also noticed that I do not have to run the canadiana-2.sh program through Git Bash. All I have to do is double click the canadiana file and it runs atumatically. 
+
+I am very happy I came back to this exercise, even this late in the semster. It has allowed me to compile a dataset that relates to another project I have beeen working on and now gives me the opportunity to use the other skills I have learned this far to analyze it.

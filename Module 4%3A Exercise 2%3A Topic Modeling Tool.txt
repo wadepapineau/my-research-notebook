@@ -2,7 +2,7 @@ Module 4: Exercise 2: Topic Modeling Tool
 
 This is interesting and suprisingly easy to use. I can see how this is very useful in narrowing down the text according to particular topics within it.
 
-I wanted to look at reports on North America within this dataset for example, and this topic modeling allows me to do thid rather efficiently.
+I wanted to look at reports on North America within this dataset for example, and this topic modeling allows me to do this rather efficiently.
 
 For example, under list of topics, the first one seeems to deal with more local news, where topic #2, which contains such key words as "America," and "settlement" deal with the type of subject matter that I am interested in looking at.  Looking at topic number 7 brings up reports of what loks to be the war of 1812. 
 

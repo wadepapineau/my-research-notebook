@@ -1,0 +1,71 @@
+Final Assignment: Building Datasets
+
+Search Strings:
+
+Smallpox:
+
+http://eco.canadiana.ca/search?q=smallpox&field=&df=1800&dt=1900&fmt=json
+
+Searching "smallpox" on Canadiana gives 3,475 results.
+
+Searching "cholera" gives 8,372 results.
+
+Workflow:
+
+The first thing I did was do a basic search for "smallpox" on the Canadiana website. 
+
+Usin the API provided in Module 2: Exercise 3: I downloaded this data.
+
+I used "Find" in noepad ++ to make sure that the term "smallpox" was used at least once in all of the documents within the datset.
+
+Pulling Dtes and Locations:
+
+Trying to figure out how to organize these loosely by date. Identifying the word "published" would be helpful except it is the line that directly follows this that I want and, as far as I know, I can only get Regex to work with the line that "published" is on, which is not reall very helpful.
+
+It seems that, by using find and searching for s.n. brings up a list of 49 hits containing place names and dates. This is because, whatever s.n. stands for, it is located in the line dirctly below the "published" tag. This seems to be one way of pulling place names and dates from the dataset. But this only gets a fraction of the total place names and dates.
+
+Of course, there are documents in this dataset that do not contain theis identifier so, using this method is not particularly effective.
+
+Perhaps use a process of elimination. First remove any lines that begin with "text" and go from there. But this is beyond my skill level with Regex.
+
+Solution: After a whole day of trial and error, I figured out that I could modify the API provided in the API Exercis in the workbook. By changing the command in line 25 that says "{key}" to "{published}" I was able to grab the value for "published" instead of "key" which produced the results that I wanted; which was locations and dates of publications concerning smallpox.
+
+Rinse and repeat for cholera.
+
+THE NEXT STEP is to organize the places and dates datasets into .csv format (using Regex as shown in the Regex Exercise in the workbook) so that we can start to visualize the data. I am hoping that this will reflect the dates when these epidemics became significant and where. I think the headings for the .csv file would be simply: city - date. 
+
+THE NEXT STEP is using Open Refine to fix spelling errors. NOTE: Open Refine does not recognise the accent over the "e" in Montreal and gives a weird error where there is a jumble of characters. Because fo this we will have to default to not using the accent I guess.
+
+THE NEXT STEP is to create charts to visualize the data that I have compiled and cleaned in the .csv files using Excel. As I have no experience with Excel, it took some time just to figure out that the type of tables I need are called "frequency tables." A video tutorial on how to do this can be found here:
+
+https://www.youtube.com/watch?v=OovaA2jZgPU
+
+After doing this I was able to create some charts to visualize the data. I saved them through paintbrush as JPEG and PNG files as I am not aure which will work best for the project.
+
+***NOTE***: we may want to use regex in notepad and excel to analyze the frequency of terms like vaccination and water - if we have time afterward
+
+NEXT STEP is to analyze the complete data collections using Overview. Reminder: the online version is here:
+
+https://www.overviewdocs.com/
+
+A visual analysis of word frequency in the smallpox datase provided the desired results where vaccination appears most frequently. Other anticipated words that appear frequently are: Montrela, unvaccinated, sanitary, water, vaccinated.
+
+A visula analysis of cholera also gives the desired reault, with water being mentioned very frequenty - as cholera is spread mostly by water and food that has been contaminated (apparently by human feces). Other immportant terms that pop up are: epidemic.
+
+NEXT STEP is to visualize using Raw. Raw can be accessed here:
+
+http://app.raw.densitydesign.org/#%2F
+
+Embed codes can be obtaine d here as well, but they are quite lengthy. You will have to go through the process to get them (input data, etc.) 
+
+Charts that work well with this data: Aluvial Diagram
+
+***NOTE***: What we have identified this far in these visualizations is that Toronto and Montreal are most prominent. I think it would be worthwhile to analyze this 2 cities by creat more bar graphs i excel that would consider the frewuency of reports by dat in each one of these cities separately. Tod do this, I think we would have to use Regex to seperate Tornonto and Montreal out of the broader cities/date lists, and then chart them in excel. 
+
+Project is here:
+
+http://wadepapineau.github.io/FinalProject/Project.html
+
+
+
+
